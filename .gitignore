@@ -12,6 +12,7 @@ KindleComicConverter*.egg-info/
 win7
 osx10.11
 /venv/
+/.venv/
 /kindlegen*
 /kcc.bat
 .DS_Store
